@@ -1,0 +1,107 @@
+.box_logo {
+  margin:50px 0px 50px 50px;
+}
+.center {
+	text-align: center;   /* Выравнивание по центру */
+}
+
+.left {
+	text-align: left;    /* Выравнивание слева */
+	margin: 12px 0px 0px 23px;
+}
+.box_m1 {   /* Главное меню 1 кнопка */
+  width: 155px;
+  height: 40px;
+  background-color: #555555; 
+  margin: 0px 0px 40px 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.box_m2 {   /* Главное меню 2 кнопка */
+  width: 100px;
+  height: 40px;
+  background-color: #3f3f3f; 
+  margin: 0px -3px 0px -3px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.box_m3 {   /* Главное меню 3 кнопка */
+  width: 155px;
+  height: 40px;
+  background-color: #555555; 
+  margin: 0px 0px 0px 0px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.box_m4 {   /* Главное меню 4 кнопка */
+  width: 155px;
+  height: 40px;
+  background-color: #555555; 
+  margin: 0px 0px 0px -5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.box_m5 {   /* Главное меню 5 кнопка */
+  width: 395px;
+  height: 40px;
+  background-color: #555555;
+  display: inline-block;
+  margin: 0px 0px 0px -5px;
+  vertical-align: top;
+}
+
+.box_mm1 {    /* меню два кнопка */
+  width: 240px;
+  height: 40px;
+  background-color: #fff; 
+  display: block;
+  vertical-align: top;
+  margin: 0px 0px 0px 50px;
+  border-width: 1px; 
+  border-style: solid;
+  border-color: #c8c8c8; 
+}
+
+.box_mm2 {  /* меню два активная кнопка */
+  width: 228px;
+  height: 40px;
+  background-color: #f9f9f9; 
+  display: block;
+  vertical-align: top;
+  margin: 0px 0px 0px 50px;
+  border-width: 1px; 
+  border-style: solid;
+  border-color: #c8c8c8; 
+  padding: 0px 0px 0px 12px;
+}
+
+.container {   /* меню два - контейнер */
+  border: 1px solid transparent;
+  backgraund-color:#fff;
+  display: inline-block;
+  vertical-align: top;
+} 
+
+.box_img2 {   /* фото велосипед */
+	margin: 0px 0px 0px 40px;
+	display: inline-block;
+	vertical-align: top;
+	border-width: 1px; 
+	border-style: solid;
+	border-color: #c8c8c8; 
+}
+
+.box_txt {    /* текст контент */
+	margin: 25px 0px 0px 60px;
+	padding: 0px 0px 0px 310px;
+	width: 800px;
+	height: 420px;
+}  
+
+.box_img3 {   /* картинка подвал */
+	margin: 0px 0px 0px 50px;
+}
